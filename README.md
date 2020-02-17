@@ -2,9 +2,9 @@
 
 ## "Balancing cell populations endowed with a synthetic toggle switch via adaptive pulsatile feedback control"
 
-submitted to ACS Synthetic Biology
+### A. Guarino, D. Fiore, D. Salzano, M. di Bernardo
 
-A. Guarino, D. Fiore, D. Salzano, M. di Bernardo
+submitted to ACS Synthetic Biology
 
 preprint available at https://www.biorxiv.org/content/10.1101/851212v1
 
