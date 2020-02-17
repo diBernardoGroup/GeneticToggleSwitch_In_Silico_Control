@@ -1,6 +1,6 @@
 # GeneticToggleSwitch_In_Silico_Control
 
-"Balancing cell populations endowed with a synthetic toggle switch via adaptive pulsatile feedback control"
+## "Balancing cell populations endowed with a synthetic toggle switch via adaptive pulsatile feedback control"
 
 submitted to ACS Synthetic Biology
 
@@ -13,7 +13,7 @@ In- Silico Feedback control strategies for the Genetic Toggle Switch.
 The folders contains all the files to carry out both MATLAB and BSim simulations.
 
 
-Matlab Simulations:
+### Matlab Simulations:
 
 Include in the path all the folders and subfolders you find in MATLAB/
 
@@ -25,16 +25,16 @@ explained in the comments.
 Deatils about the control strategies can be set in the file ControlSettings, as explained in the comments.
 
 
-Agent-Based simulations in Bsim:
+### Agent-Based simulations in Bsim:
 
-PI-PWM Control Strategy:
+##### PI-PWM Control Strategy:
 
 Import all the files in a new Java project (files were developed with Eclipse 2019-06).
 
 The main file to run the simulation is in the package Control_Experiment_Bacteria >> bMain >> BSim_Lugagne_Main
 
 
-MPC Control Strategy:
+###### MPC Control Strategy:
 
 Import all the files in a new Java project (files were developed with Eclipse 2019-06).
 
