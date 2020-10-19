@@ -2,11 +2,11 @@
 
 ## "Balancing cell populations endowed with a synthetic toggle switch via adaptive pulsatile feedback control"
 
-### A. Guarino, D. Fiore, D. Salzano, M. di Bernardo
+### A. Guarino (@AgostinoGuarino), D. Fiore, D. Salzano, M. di Bernardo
 
-submitted to ACS Synthetic Biology
+ACS Synthetic Biology 9(4), 793–803, 2020
 
-preprint available at https://www.biorxiv.org/content/10.1101/851212v1
+available at https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00464
 
 In- Silico Feedback control strategies for the Genetic Toggle Switch.
 
